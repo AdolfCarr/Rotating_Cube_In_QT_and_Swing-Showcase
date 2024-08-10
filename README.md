@@ -8,7 +8,7 @@ applications using Qt with C++ and the API Swing from Java.
 ## Features
 
 
-- [Rotating Cube with Swing in Java](https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/tree/main/RotatingCube_Java)
+- [Rotating Cube with Swing in Java](https://github.com/AdolfCarr/Rotating_Cube_In_QT_and_Swing-Showcase/blob/main/RotatingCube_Java/README.md)
  > Perform rotation of a wired cube using **`Java`**.
 
 <p align="center">
@@ -17,7 +17,7 @@ applications using Qt with C++ and the API Swing from Java.
 <p align="center">
 
 
-- [Rotating Cube with QT in C++](https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/tree/main/RotatingCube_QT)
+- [Rotating Cube with QT in C++](https://github.com/AdolfCarr/Rotating_Cube_In_QT_and_Swing-Showcase/blob/main/RotatingCube_QT/README.md)
  > Perform rotation of a wired cube using **`C++`**.
 
 <p align="center">
